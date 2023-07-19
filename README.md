@@ -8,7 +8,7 @@
 - 문서의 단순 번역은 `경어체`를, 직접 작성한 내용은 `평어체`를 사용합니다.
 - 원문을 참고하길 추천하며 가능한 링크를 남기겠습니다.
 - 배운 내용이나 메모는 소제목에 압정(`📌`) 이모지를 표시하여 작성하고 링크합니다.
-
+- https://github.com/KyungminLeeDev/learning-with-apple-official-resources 님자료 참조 (레포수정예정) 
 <br><br><br>         
 
 
