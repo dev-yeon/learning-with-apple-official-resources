@@ -10,7 +10,7 @@
 
 
 
-Developer Documentation
+# Developer Documentation
 Foundation
 API Collection URL Loading System
 Article Fetching Website Data into Memory
@@ -30,7 +30,7 @@ Sample Code Project
 
 
 
-Swift.org
+ #  Swift.org
 A Swift Tour
 Simple Values
 Control Flow
@@ -44,7 +44,8 @@ Generics
 
 
 
-iOS App Dev Tutorials
+#  iOS App Dev Tutorials
+---
 UIKit
 Ch1. UIKit essentials
 Getting Started with Today
